@@ -1,2 +1,1 @@
-# bg-view
-background
+# background by azza
